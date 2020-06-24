@@ -33,3 +33,6 @@ Execute commands in this order:
 
 4th client connected again
 ![04](screenshots/04.png)
+
+
+![05](screenshots/05.png)
